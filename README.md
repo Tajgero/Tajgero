@@ -36,9 +36,13 @@ Looking for mentor who will help me upgrade my skills in Python programming, Dat
 
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tajgero&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tajgero&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
 
-![snake gif](https://github.com/Tajgero/Tajgero/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/Tajgero/Tajgero/blob/output/github-snake-dark.svg"/>
+</div>
 
 ## 🦾🧠 Learning and using
 
