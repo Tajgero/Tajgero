@@ -22,7 +22,7 @@
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Tajgero&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Tajgero/Tajgero/blob/output/github-snake-dark.svg)
 
 ## 🦾🧠 Learning and using
 
