@@ -1,5 +1,37 @@
-## Hi there 👋
-![header]https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Tajgero%27s%20Profile%20Page&reversal=false&fontAlign=50&animation=scaleIn
+# <div align="center">👋😸</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Tajgero's%20Profile%20Page&reversal=false&fontAlign=50&animation=scaleIn&fontColor=f7a307&stroke=5b2580&strokeWidth=2&desc=M.Eng.%20Biotechnology&textBg=false&descAlignY=67&descAlign=69"/>
+</p>
+
+
+<div align="center">
+  <img align="bottom" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
+  
+  <a href="https://www.linkedin.com/in/janlatt/">
+    <img align="center" height="100" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+  
+  <img align="center" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
+</div>
+
+## 🐅🧪 About me section
+
+
+## 🦾🧠 Learning and using
+
+<p align="left">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+
+</p>
+
 <!--
 **Tajgero/Tajgero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
