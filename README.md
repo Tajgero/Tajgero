@@ -18,15 +18,15 @@
 ## 🐅🧪 About me section
 
 Hello! 👋
-I am a programming and new technologies enthusiast, constantly developing my skills in web application development and tools that automate everyday tasks. I work daily with technologies such as Python, JavaScript, and React, and I am also interested in DevOps and cloud solutions.
+I am a programming and new technologies enthusiast, constantly developing my skills in tools that automate everyday tasks. I work on thesis with Python programming language on better receptor preparation with AutoDock4 scripts, which broaden my new horizons in CS.
 
-🚀 I enjoy challenges, problem-solving puzzles and playing tennis 🎾.
+* 🚀 I enjoy challenges, problem-solving puzzles and playing tennis 🎾.
 
-📚 In my free time, I explore topics related to artificial intelligence and machine learning.
+* 📚 In my free time, I explore topics related to artificial intelligence and machine learning.
 
-💻 I play a lot of vide games ranging from horror to platform ones. I love memes.
+* 💻 I play a lot of vide games ranging from horror to platform ones. I love memes.
 
-🌍 I am happy to contribute to community projects and hackathons.
+* 🌍 I am happy to contribute to community projects and hackathons.
 
 Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
 
