@@ -16,8 +16,24 @@
 </div>
 
 ## 🐅🧪 About me section
-* Biotechnology Engineer with speciality in drug development
-* Looking for mentor who will help me upgrade my skills in Python programming, Data Science in Bioinformatics.
+
+Hello! 👋
+I am a programming and new technologies enthusiast, constantly developing my skills in web application development and tools that automate everyday tasks. I work daily with technologies such as Python, JavaScript, and React, and I am also interested in DevOps and cloud solutions.
+
+🚀 I enjoy challenges, problem-solving puzzles and playing tennis 🎾.
+
+📚 In my free time, I explore topics related to artificial intelligence and machine learning.
+
+💻 I play a lot of vide games ranging from horror to platform ones. I love memes.
+
+🌍 I am happy to contribute to community projects and hackathons.
+
+Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
+
+Feel free to get in touch and collaborate!
+Looking for mentor who will help me upgrade my skills in Python programming, Data Science and Bioinformatics.
+
+
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Tajgero&theme=radical&no-frame=false&no-bg=true&margin-w=4)
