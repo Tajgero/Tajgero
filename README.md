@@ -16,7 +16,11 @@
 </div>
 
 ## 🐅🧪 About me section
+* Biotechnology Engineer with speciality in drug development
+* Looking for mentor who will help me upgrade my skills in Python programming, Data Science in Bioinformatics.
 
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tajgero&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🦾🧠 Learning and using
 
