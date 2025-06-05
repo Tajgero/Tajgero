@@ -1,5 +1,7 @@
 ![Machine Learning Roadmap](https://github.com/Timur-Maistermind/Machine-Learning-Roadmap/blob/main/images/Machine_Learning_Roadmap.png)
 
+# Concise Table Of Contents
+
 ## 🐍 1. Python  
 - 📖 [1.1 Introduction](#11-introduction)  
 - 🛠️ [1.2 Data Manipulation](#12-data-manipulation)  
@@ -52,7 +54,8 @@
 - 🐳 [4.5 Docker Basics](#45-docker-basics)  
 - 📚 [4.6 Additional Resources](#46-additional-resources)
 
----
+In Depth Info How To Learn
+===============
 
 ## 1. Python
 
