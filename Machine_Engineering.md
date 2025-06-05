@@ -1,8 +1,4 @@
----
-
 ![Machine Learning Roadmap](https://github.com/Timur-Maistermind/Machine-Learning-Roadmap/blob/main/images/Machine_Learning_Roadmap.png)
-
----
 
 ## 🐍 1. Python  
 - 📖 [1.1 Introduction](#11-introduction)  
@@ -125,14 +121,6 @@ Once you’re comfortable with Python, these **practical topics** will help you 
 
 ---
 
-<p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
-    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
-  </a>
-</p>
-
----
-
 ## 2. Data Science / ML Introduction
 
 ### 🙏 Please, support the repo with a STAR ⭐ 
@@ -236,20 +224,10 @@ Unsupervised learning helps **discover hidden structures** in data when labels a
 - 🎥 [t-SNE, Resource 1](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
 - 🎥 [t-SNE, Resource 2](https://distill.pub/2016/misread-tsne/)  
 - 📚 [UMAP - Understanding & Applications](https://pair-code.github.io/understanding-umap/)  
----
-
-<p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
-    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
-  </a>
-</p>
 
 ---
 
 ## 3. Data Science / ML Deep Dive
-
-### 🙏 Please, support the repo with a STAR ⭐ 
-To help people learn ML Foundations for free, please, support this project with a GitHub star ⭐, so more people can learn ML for free.
 
 ---
 
@@ -365,19 +343,7 @@ Signal processing is **crucial** in industrial ML projects. You need to filter o
 
 ---
 
-<p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
-    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
-  </a>
-</p>
-
----
 ## 4. MLOps for Data Scientists
-
-### 🙏 Please, support the repo with a STAR ⭐ 
-To help people learn ML Foundations for free, please, support this project with a GitHub star ⭐, so more people can learn ML for free.
-
----
 
 MLOps (Machine Learning Operations) is **essential** for deploying, managing, and scaling ML models in production. Many Data Scientists debate whether they need MLOps skills, but having a **solid understanding** will make you a stronger professional who can build and deploy end-to-end solutions.
 
@@ -429,25 +395,3 @@ Docker allows you to **containerize** ML models for **consistent deployment acro
 If you want to **go deeper into MLOps**, check out this roadmap. But **be cautious**—MLOps is vast, so focus on the fundamentals first!
 
 - 📚 [MLOps Roadmap 2024 - Marvelous MLOps](https://marvelousmlops.substack.com/p/mlops-roadmap-2024)
-
----
-  <p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
-    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
-  </a>
-</p>
-
----
-
-# ✉️ Subscribe to my newsletter for Advanced ML Content
-
-[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/join)
-
-<p align="center">
-  <a href="https://www.maistermind.ai/join">
-    <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="250">
-  </a>
-</p>
-
-# 📚 Read Medium Interactive Article on the Roadmap
-[Medium ML Roadmap Article](https://medium.com/@timur.bikmukhametov/machine-learning-roadmap-from-zero-to-advanced-3b0fc9bb5959)
