@@ -30,10 +30,10 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 
 Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
 
-My goal is to become someone in between Data Science and Drug Design in broader field of Bioinformatics
+My goal is to become someone in between Data Science and Drug Design in broader field of Bioinformatics to be precise.
 
 Feel free to get in touch and collaborate!
-Looking for mentor who will help me upgrade my skills in Python programming, Data Science and Bioinformatics.
+Looking for mentor who will help me upgrade my skills in Python programming, Bioinformatics and Data Science.
 
 ## 🏆 GitHub Trophies
 <div align="center">
