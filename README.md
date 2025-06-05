@@ -24,7 +24,7 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 
 * 📚 In my free time, I explore topics related to artificial intelligence and machine learning.
 
-* 💻 I play a lot of vide games ranging from horror to platform ones. I love memes.
+* 💻 Video games enthusiast ranging from horror to platform ones. I love memes.
 
 * 🌍 I am happy to contribute to community projects and hackathons.
 
