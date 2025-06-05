@@ -18,7 +18,7 @@
 ## 🐅🧪 About me section
 
 Hello! 👋
-I am a programming and new technologies enthusiast, constantly developing my skills in tools that automate everyday tasks. I work on thesis with Python programming language on better receptor preparation with AutoDock4 scripts, which broaden my new horizons in CS.
+I am a programming and new technologies enthusiast, constantly developing my skills in tools that automate everyday tasks. I work on thesis with Python programming language on better receptor preparation with AutoDock4 scripts, which broaden my new horizons towards CS.
 
 * 🚀 I enjoy challenges, problem-solving puzzles and playing tennis 🎾.
 
@@ -30,10 +30,10 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 
 Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
 
+My goal is to become someone in between Data Science and Drug Design in broader field of Bioinformatics
+
 Feel free to get in touch and collaborate!
 Looking for mentor who will help me upgrade my skills in Python programming, Data Science and Bioinformatics.
-
-
 
 ## 🏆 GitHub Trophies
 <div align="center">
