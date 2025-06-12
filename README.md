@@ -4,17 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Tajgero's%20Profile%20Page&reversal=false&fontAlign=50&animation=scaleIn&fontColor=f7a307&stroke=5b2580&strokeWidth=2&desc=M.Eng.%20Biotechnology&textBg=false&descAlignY=67&descAlign=69"/>
 </p>
 
-
-<div align="center">
-  <img align="bottom" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
-  
-  <a href="https://www.linkedin.com/in/janlatt/">
-    <img align="center" height="100" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a>
-  
-  <img align="center" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
-</div>
-
 ## 🐅🧪 About me section
 
 Hello! 👋
@@ -34,6 +23,16 @@ My goal is to become someone in between Data Science and Drug Design in broader 
 
 Feel free to get in touch and collaborate!
 Looking for mentor who will help me upgrade my skills in Python programming, Bioinformatics and Data Science.
+
+<div align="center">
+  <img align="bottom" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
+  
+  <a href="https://www.linkedin.com/in/janlatt/">
+    <img align="center" height="100" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+  
+  <img align="center" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
+</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
