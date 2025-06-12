@@ -15,7 +15,7 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 
 * 💻 Video games enthusiast ranging from horror to platform ones. I love memes.
 
-* 🌍 I am happy to contribute to community projects and hackathons.
+* 🌍 I am happy to learn, explore and find my place in Bioinformatics/Data Science World.
 
 Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
 
