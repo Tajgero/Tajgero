@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Tajgero's%20Profile%20Page&reversal=false&fontAlign=50&animation=scaleIn&fontColor=f7a307&stroke=5b2580&strokeWidth=2&desc=M.Eng.%20Biotechnology&textBg=false&descAlignY=67&descAlign=69"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tajgero&show_icons=true&theme=gruvbox&rank_icon=github&custom_title=Tajgero's%20stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tajgero&repo=ideal-pancake&theme=apprentice)](https://github.com/Tajgero/ideal-pancake)
+![Tajgero stats](https://github-readme-stats.vercel.app/api?username=Tajgero&show_icons=true&theme=gruvbox&rank_icon=github&custom_title=Tajgero's%20stats)
+[![Programs Card](https://github-readme-stats.vercel.app/api/pin/?username=Tajgero&repo=ideal-pancake&theme=apprentice)](https://github.com/Tajgero/ideal-pancake)
 
 <!--
 <a href="https://github.com/Tajgero">
@@ -26,6 +26,7 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 * 📚 In my free time, I explore topics related to artificial intelligence and machine learning.
 
 * 💻 Video games enthusiast ranging from horror to platform ones. I love memes.
+* I did game on this service: https://scratch.mit.edu/users/Tajgero/
 
 * 🌍 I am happy to learn, explore and find my place in Bioinformatics/Data Science World.
 
@@ -35,8 +36,6 @@ My goal is to become someone in between Data Science and Drug Design in broader 
 
 Feel free to get in touch and collaborate!
 Looking for mentor who will help me upgrade my skills in Python programming, Bioinformatics and Data Science.
-
-
 
 <div align="center">
   <img align="bottom" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
