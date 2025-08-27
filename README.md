@@ -38,7 +38,7 @@ Feel free to get in touch and collaborate!
 Looking for mentor who will help me upgrade my skills in Python programming, Bioinformatics and Data Science.
 
 <div align="center">
-  <img align="bottom" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
+  <img align="center" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
   
   <a href="https://www.linkedin.com/in/janlatt/">
     <img align="center" height="100" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
