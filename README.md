@@ -23,19 +23,19 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 
 * 🚀 I enjoy challenges, problem-solving puzzles and playing tennis 🎾.
 
-* 📚 In my free time, I explore topics related to artificial intelligence and machine learning.
+* 📚 In my free time, I explore topics related to Artificial Intelligence and Machine Learning.
 
-* 💻 Video games enthusiast ranging from horror to platform ones. I love memes.
+* 💻 Video games enthusiast ranging from horror, through puzzles, to platform ones. I love memes.
 * I did game on this service: https://scratch.mit.edu/users/Tajgero/
 
-* 🌍 I am happy to learn, explore and find my place in Bioinformatics/Data Science World.
+* 🌍 I am happy to learn, explore and find my place in Data Science/Bioinformatics World.
 
 Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
 
 My goal is to become someone in between Data Science and Drug Design in broader field of Bioinformatics to be precise.
 
 Feel free to get in touch and collaborate!
-Looking for mentor who will help me upgrade my skills in Python programming, Bioinformatics and Data Science.
+Looking for mentor who will help me upgrade my skills in Data Science and Bioinformatics.
 
 <div align="center">
   <img align="center" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
