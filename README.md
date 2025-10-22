@@ -26,9 +26,10 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 * 📚 In my free time, I explore topics related to Artificial Intelligence and Machine Learning.
 
 * 💻 Video games enthusiast ranging from horror, through puzzles, to platform ones. I love memes.
+
 * I made game on this service: https://scratch.mit.edu/users/Tajgero/
 
-* 🌍 I am happy to learn, explore and find my place in Data Science/Bioinformatics World.
+* 🌍 I am happy to learn, explore and find my place in Data Science/Bioinformatics world.
 
 Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
 
