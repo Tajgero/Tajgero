@@ -4,8 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Tajgero%27s%20Profile%20Page&reversal=false&fontAlign=50&animation=scaleIn&fontColor=f7a307&stroke=5b2580&strokeWidth=2&desc=MEng%20Biotechnology&textBg=false&descAlignY=67&descAlign=69"/>
 </p>
 
-![Tajgero stats](https://github-readme-stats.vercel.app/api?username=Tajgero&show_icons=true&theme=gruvbox&rank_icon=github&custom_title=Tajgero's%20stats)
+<!-- ![Tajgero stats](https://github-readme-stats.vercel.app/api?username=Tajgero&show_icons=true&theme=gruvbox&rank_icon=github&custom_title=Tajgero's%20stats) -->
 [![Programs Card](https://github-readme-stats.vercel.app/api/pin/?username=Tajgero&repo=ideal-pancake&theme=apprentice)](https://github.com/Tajgero/ideal-pancake)
+[![Programs Card](https://github-readme-stats.vercel.app/api/pin/?username=Tajgero&repo=Pattern-recognition&theme=apprentice)](https://github.com/Tajgero/Pattern-recognition)
 
 <!--
 <a href="https://github.com/Tajgero">
