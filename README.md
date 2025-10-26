@@ -7,6 +7,7 @@
 <!-- ![Tajgero stats](https://github-readme-stats.vercel.app/api?username=Tajgero&show_icons=true&theme=gruvbox&rank_icon=github&custom_title=Tajgero's%20stats) -->
 [![Programs Card](https://github-readme-stats.vercel.app/api/pin/?username=Tajgero&repo=ideal-pancake&theme=apprentice)](https://github.com/Tajgero/ideal-pancake)
 [![Programs Card](https://github-readme-stats.vercel.app/api/pin/?username=Tajgero&repo=Pattern-recognition&theme=apprentice)](https://github.com/Tajgero/Pattern-recognition)
+[![Programs Card](https://github-readme-stats.vercel.app/api/pin/?username=siemania&repo=mgr_AM_JL&theme=apprentice)](https://github.com/siemania/mgr_AM_JL)
 
 <!--
 <a href="https://github.com/Tajgero">
