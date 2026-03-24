@@ -21,7 +21,7 @@
 ## 🐅🧪 About me section
 
 Hello! 👋
-I am a programming and new technologies enthusiast, constantly developing my skills in tools that automate everyday tasks. I work on thesis with Python programming language on better receptor preparation with AutoDock4 scripts, which broaden my new horizons towards CS.
+I am a programming and new technologies enthusiast, constantly developing my skills in tools that automate everyday tasks. I worked on thesis with Python programming language on better receptor preparation with AutoDock4 scripts, which broaden my new horizons towards CS and is publicly available as open-source project on GitHub (mgr_AM_JL repository on my profile).
 
 * 🚀 I enjoy challenges, problem-solving puzzles and playing tennis 🎾.
 
@@ -29,16 +29,16 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 
 * 💻 Video games enthusiast ranging from horror, through puzzles, to platform ones. I love memes.
 
-* I made game on this service: https://scratch.mit.edu/users/Tajgero/
+* I made game on this website!: https://scratch.mit.edu/users/Tajgero/
 
 * 🌍 I am happy to learn, explore and find my place in Data Science/Bioinformatics world.
 
 Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
 
-My goal is to become someone in between Data Science and Drug Design in broader field of Bioinformatics to be precise.
+My goal is to become Data Scientist mastering in ML and help businesses achieve high revenue.
 
 Feel free to get in touch and collaborate!
-Looking for mentor who will help me upgrade my skills in Data Science and Bioinformatics.
+Looking for mentor who will help me upgrade my skills in Data Science and/or Bioinformatics.
 
 <div align="center">
   <img align="center" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
