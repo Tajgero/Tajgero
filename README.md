@@ -50,10 +50,10 @@ Looking for mentor who will help me upgrade my skills in Data Science and/or Bio
   <img align="center" height="200" src="https://media.tenor.com/h2sPi9_QwZwAAAAi/cat-eating-chips.gif"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
+## 🏆 Progress
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tajgero&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github.com/Tajgero/Tajgero/blob/output/github-snake-dark.svg"/>
