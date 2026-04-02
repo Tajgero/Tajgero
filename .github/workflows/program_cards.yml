@@ -1,7 +1,7 @@
 name: Generate Project Cards
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 1,14,28 * *" 
       timezone: "Europe/Warsaw"
     
   workflow_dispatch: # Manual control
@@ -13,33 +13,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Card 1
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: card-ideal-pancake.svg
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 1
-          plugin_repositories_featured: Tajgero/ideal-pancake # Repo
-          config_timezone: Europe/Warsaw
+      - name: Download Cards
+        run: |
+          # Karta 1
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=Tajgero&repo=ideal-pancake&theme=apprentice" -o card-ideal-pancake.svg
+          # Karta 2
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=Tajgero&repo=Pattern-recognition&theme=apprentice" -o card-pattern-recognition.svg
+          # Karta 3
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=siemania&repo=mgr_AM_JL&theme=apprentice" -o card-mgr.svg
 
-      - name: Generate Card 2
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: card-pattern-recognition.svg
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 1
-          plugin_repositories_featured: Tajgero/Pattern-recognition # Repo
-
-      - name: Generate Card 3
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: card-mgr.svg
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 1
-          plugin_repositories_featured: siemania/mgr_AM_JL # Repo
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add *.svg
+          git commit -m "Update GitHub Stats Cards" || exit 0
+          git push
