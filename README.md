@@ -37,11 +37,11 @@ I am a programming and new technologies enthusiast, constantly developing my ski
 
 * 💻 Video games enthusiast ranging from horror, through puzzles, to platform ones. I love memes.
 
-* I made game on this website!: https://scratch.mit.edu/users/Tajgero/
+* I made a game on this website!: https://scratch.mit.edu/users/Tajgero/
 
 * 🌍 I am happy to learn, explore and find my place in Data Science/Bioinformatics world.
 
-Additionally, I hold both a Bachelor’s Engineering and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies.
+Additionally, I hold both a Bachelor’s Engineering in Molecular Biotechnology and Master’s degree in Pharmaceutical Biotechnology, which gives me a strong foundation in life sciences and research methodologies as well as data analysis with Excel and Python (EDA, hipothesis testing, matplotlib, supercomputer biosimulations).
 
 My goal is to become Data Scientist mastering in ML and help businesses achieve high revenue.
 
@@ -84,18 +84,3 @@ Looking for mentor who will help me upgrade my skills in Data Science and/or Bio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 </p>
-
-<!--
-**Tajgero/Tajgero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
